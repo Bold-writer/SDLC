@@ -1,2 +1,2 @@
 # SDLC
- Explains the process of SDLC cycle
+ Explains the process of SDLC 
